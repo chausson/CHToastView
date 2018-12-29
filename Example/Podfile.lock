@@ -1,0 +1,16 @@
+PODS:
+  - CHToastView (0.1.0)
+
+DEPENDENCIES:
+  - CHToastView (from `../`)
+
+EXTERNAL SOURCES:
+  CHToastView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CHToastView: 0cb04373c39ab1892dc3add78a28620a79b77a31
+
+PODFILE CHECKSUM: 62be740161bb715f3b6253a9414f45bbc49b8a07
+
+COCOAPODS: 1.5.3
