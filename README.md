@@ -22,7 +22,7 @@ pod 'CHToastView'
 
 ## Author
 
-chausson, song.xiao@ele.me
+chausson
 
 ## License
 
